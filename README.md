@@ -174,7 +174,7 @@ ng build          # production build in dist/
 
 <br/><br/>
 
-<sub>Designed and developed by <a href="https://github.com/ahmedtobashahban21">Ahmed Toba Shaban</a></sub>
+<sub>Designed and developed by <a href="https://github.com/ahmedtobashahban21">Ahmed Toba </a></sub>
 
 </div>
 
